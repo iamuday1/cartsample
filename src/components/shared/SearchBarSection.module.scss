@@ -1,0 +1,41 @@
+.searchBarSection{
+   margin: 100px auto;
+   display:flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.searchBar{
+   display:flex;
+   align-items: center;
+   background-color: white;
+   border: 1px solid;
+   border-radius: 20px;
+}
+
+.input {
+   width:250px;
+   border: none;
+   border-radius: 20px;
+}
+
+.button{
+   background-color: transparent;
+   border: none;
+   border-radius: 20px;
+   width:250px;
+
+}
+
+.display {
+   display:flex;
+   flex-wrap: wrap; 
+}
+
+.product {
+    width:200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #f9d5d3;
+}
